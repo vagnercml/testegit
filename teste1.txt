@@ -4,9 +4,10 @@
 
 - novo executado <= 0 
 	- status tarefa = atribuido
-	- status item = atribuido
 
 - novo executado > 0
 	- status tarefa = confirmado
-	- status item = atribuido
+
+- status item = atribuido
+
 
